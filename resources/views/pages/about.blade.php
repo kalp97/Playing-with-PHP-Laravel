@@ -1,4 +1,4 @@
 @extends('layouts.landing')
 @section('content')
-    i am the about page
+    <h1> Hello World! Welcome to my Laravel About Page</h1>
 @stop
